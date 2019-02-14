@@ -2,8 +2,8 @@
 A PoC to understand and use Cython
 
 ## Advantages, in my opinion, of using Cython
-* Transforms your .py modules into high-performant C files, and these C files can be compiled as native binary libraries effortlessly.
-* Better code protection than .pyc, which can be reverse-engineered. When the compilation is completed, there’s no way to reverse compiled libraries back to readable Python source code.
+* Transforms your *.py* modules into high-performant *C* files, and these *C* files can be compiled as native binary libraries effortlessly.
+* Better code protection than *.pyc*, which can be reverse-engineered. When the compilation is completed, there’s no way to reverse compiled libraries back to readable Python source code.
 
 ## How to have a feel of it on a Virtual Environment
 
